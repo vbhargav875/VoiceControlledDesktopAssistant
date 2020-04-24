@@ -52,7 +52,7 @@ with open("config.yaml") as file:
 	user = config["user"]["name"]
 
 def write_to_file(message):
-	f = open("/home/vijay/Desktop/Code/assistant/interface/variable.py",'w')
+	f = open("./assistant/interface/variable.py",'w')
 	f.write("var = "+str(message))
 	f.close()
 
