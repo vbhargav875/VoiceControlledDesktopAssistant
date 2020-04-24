@@ -8,6 +8,5 @@ pyyaml
 sockets
 beautifulsoup4
 PyDictionary
-sqlite3
 aiml
 APScheduler

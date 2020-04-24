@@ -1,18 +1,18 @@
 user:
-  name: vijay
+  name: 
   location: Bengaluru
-db: /home/vijay/Desktop/Code/voiceassistant.db
+db: ./voiceassistant.db
 assistant:
   name: thomas
-music: /home/vijay/Music/
+music: 
 application:
   intellij: /opt/idea-IC-193.6015.39/bin/idea.sh
 email:
   server: smtp.gmail.com
-  sender_username: evendoorsbusiness@gmail.com
-  sender_password: evendoors21
-  reciever_name: vijay
-  reciever_mail: vbhargav875@gmail.com
+  sender_username: 
+  sender_password: 
+  reciever_name: 
+  reciever_mail: 
 reminders:
   lunch: "14:00:00"
   dinner: "21:18:00"
