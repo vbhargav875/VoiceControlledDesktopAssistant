@@ -21,8 +21,8 @@ def assistant(request):
 	print(f)
 	reply = [{'question':"Not finding what you want?"},{'answer':"We are solving the issue"}]
 
-	assistant_name = "Thomas"
-	user_name = "Vijay Bhargav"
+	assistant_name = "Voice Assistant"
+	user_name = "User"
 
 
 	if(len(var) < 6):
@@ -42,7 +42,7 @@ def write_config(uname,ulocation,aname,uemail):
 		print("empty input") 
 
 	else:
-		f = open("./assistant/interface/config.yaml" , 'w') 
+		f = open("config.yaml" , 'w') 
 		f.write("user: \n")
 		l1 = ["	"+"name: "+uname+"\n" , "	"+"location: "+ulocation+"\n"]
 		f.writelines(l1)

@@ -973,7 +973,7 @@ if __name__ == "__main__":
 			elif ("goodbye" or "good boy" or "good bye") in query:
 				if(config["assistant"]["name"] in query):
 					query = query.lstrip(config["assistant"]["name"]+" ")
-				speak("goodbye sir")
+				speak("goodbye")
 				t = datetime.datetime.now().strftime("%H")
 				ID = random.randint(1,1000000)
 				category = "exit"

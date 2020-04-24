@@ -1,1 +1,1 @@
-var = [{'answer': 'Good Afternoon'}, {'question': 'hello hello hello'}, {'answer': 'Hi!! Nice to meet you'}]
+var = [{'answer': 'Good Morning'}, {'question': 'hi'}, {'answer': 'Hey! wassup?'}, {'question': 'bye'}, {'answer': 'It was nice talking to you'}, {'question': 'goodbye'}, {'answer': 'goodbye sir'}]

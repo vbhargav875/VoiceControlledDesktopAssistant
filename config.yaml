@@ -6,7 +6,7 @@ assistant:
   name: thomas
 music: 
 application:
-  intellij: /opt/idea-IC-193.6015.39/bin/idea.sh
+  intellij: 
 email:
   server: smtp.gmail.com
   sender_username: 
