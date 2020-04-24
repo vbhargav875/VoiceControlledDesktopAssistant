@@ -1,4 +1,5 @@
 sudo apt-get update && /
+sudo apt install python3-pip && /
 sudo apt-get install mpg123 && /
 sudo apt-get install net-tools && /
 sudo add-apt-repository universe && /
