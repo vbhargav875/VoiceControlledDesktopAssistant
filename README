@@ -5,8 +5,7 @@ The goal of this project is to implement a voice assistant for the linux based s
 
 The assistant listens to voice commands by the user, these commands are converted to text and parsed by the assistant to execute the required action. Each of these commands given by the user is logged onto a database. The data logged to the database is used to personalize features to the particular user. A user-interface is provided to help the users interact with the assistant.
 
-![Image of User Interface]
-(https://github.com/vijaybhargav09/VoiceControlledDesktopAssistant/blob/master/UI.png)
+![Image of User Interface](https://github.com/vijaybhargav09/VoiceControlledDesktopAssistant/blob/master/UI.png)
 
 Code Execution:
 
