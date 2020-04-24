@@ -1,0 +1,13 @@
+pyttsx3
+SpeechRecognition
+wikipedia
+requests
+psutil
+configparser
+pyyaml
+sockets
+beautifulsoup4
+PyDictionary
+sqlite3
+aiml
+APScheduler

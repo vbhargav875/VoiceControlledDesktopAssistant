@@ -1,0 +1,17 @@
+user: 
+	name: Vivek
+	location: bangalore
+db: /home/vijay/Desktop/Code/assistant/interface/voiceassistant.db
+assistant: 
+	name: Summer
+music: /home/vijay/Music
+application: 
+	intellij: /opt/idea-IC-193.6015.39/bin/idea.sh
+email: 
+	server: smtp.gmail.com
+	sender_username: hello@gmail.com
+	sender_password: hello123
+	reciever_name: Vivek
+	reciever_mail: viv@mail.com
+reminders: 
+	dinner: "21:18:00"

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+
+<meta name="language" content="en"/>
+
+<category>
+      <pattern>MY NAME IS *</pattern>
+      <template>
+         <set name="name"><star/></set> is a nice name.
+
+      </template>
+</category>
+
+<category>
+  <pattern>WHAT IS MY NAME</pattern>
+  <template>
+        <random>
+            <li>Your name is <get name="name"/>.</li>
+            <li>so your name is  <get name="name"/>. </li>
+        </random>
+  </template>
+</category>
+
+<category>
+      <pattern>MY BIRTHDAY IS ON *</pattern>
+      <template>
+         <set name="birthday"><star/></set> I will remember that.
+
+      </template>
+</category>
+
+<category>
+  <pattern>Do YOU KNOW WHAT IS MY BIRTHDAY </pattern>
+  <template>
+        <random>
+            <li>Your birthday is on <get name="birthday"/>.</li>
+        </random>
+  </template>
+</category>
+
+</aiml>
