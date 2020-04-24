@@ -10,7 +10,7 @@ The assistant listens to voice commands by the user, these commands are converte
 Code Execution:
 
 1. Run ‘setup.sh’ to download and install the required packages 
-2. Run the below command in your terminal :
+2. Run the following command in your terminal :
 	chmod +x start.sh && chmod +x setup.sh 
 3. Fill the fields in the config.yaml file.
 4. Run start.sh file to start the application.
